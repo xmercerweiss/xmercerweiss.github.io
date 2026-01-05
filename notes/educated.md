@@ -1,3 +1,5 @@
+# Educated
+
 What do we mean when we refer to someone as _educated_? 
 
 Most obviously, we're referring to their reception of a widely respected academic credential, typically a Bachelor's degree or higher. The presence of a degree is assumed to indicate the education one has received. But a degree does not _itself_ represent educational achievement, simply the completion of a course of study. Similar credentials can be purchased or falsified quite easily.
@@ -7,11 +9,11 @@ What, then, are the criteria for being educated? How much education, and in what
 The obvious starting point is the accreditation standards to which Bachelor's degree programs are held. The following research pertains specifically to publicly-funded 4-year universities in Colorado.
 ***
 ## Sources
-[Higher Learning Commission Accreditation Requirements](https://www.hlcommission.org/accreditation/policies/)
-[Colorado Degree Authorization Act](https://cdhe.colorado.gov/degree-authorization-act)
-[Colorado Statue: Title 23](https://cdhe.colorado.gov/title-23-the-commission)
-[Colorado Department of Higher Ed. Data Tool](https://highered.colorado.gov/Data/Search.aspx)
-[University of Colorado Boulder Academic Calendar](https://www.colorado.edu/academics/academic-calendar)
+- [Higher Learning Commission Accreditation Requirements](https://www.hlcommission.org/accreditation/policies/)
+- [Colorado Degree Authorization Act](https://cdhe.colorado.gov/degree-authorization-act)
+- [Colorado Statue: Title 23](https://cdhe.colorado.gov/title-23-the-commission)
+- [Colorado Department of Higher Ed. Data Tool](https://highered.colorado.gov/Data/Search.aspx)
+- [University of Colorado Boulder Academic Calendar](https://www.colorado.edu/academics/academic-calendar)
 ***
 ## Annotations
 - In the Western world, "education" typically refers specifically to *Liberal Arts* education. Here, the Liberal Arts are literature, philosophy, mathematics, history, and the natural sciences. While many college majors (business, engineering, accounting, nursing, etc.) are not considered Liberal Arts *degrees*, they nonetheless consist of a Liberal Arts education.
