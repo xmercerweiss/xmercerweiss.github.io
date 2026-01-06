@@ -1,4 +1,4 @@
-# Technical Documentation for my Projects
+# Technical Documentation and More
 This site hosts personal miscellany and the API and technical documentation (mostly JavaDoc) for my personal projects. This page is an index of links to the repositories and associated documentation for each project.
 
 This site is largely miscellaneous. My personal website can be found at [xmercerweiss.net](https://xmercerweiss.net).
